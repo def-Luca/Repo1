@@ -1,0 +1,2 @@
+def functie_salut(nume):
+  print(f"Salut {nume} !"}
