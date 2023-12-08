@@ -12,6 +12,7 @@ def fizz_buzz(input):
 print(fizz_buzz(7))
 
 # varianta mai cleannnn
+#si actualizata
 
 
 def fizzbuzz(input):
